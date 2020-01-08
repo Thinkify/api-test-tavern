@@ -1,0 +1,5 @@
+/assets/
+/.idea/
+/.pytest_cache/
+/report.html
+/.DS_Store
